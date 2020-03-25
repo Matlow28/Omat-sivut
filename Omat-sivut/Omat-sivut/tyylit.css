@@ -1,0 +1,61 @@
+
+body {
+    font-family: Arial;
+    padding: 10px;
+    background: hsl(0, 0%, 0%);
+    background-image: url(https://wallpaperaccess.com/full/165496.jpg);
+  }
+.header {
+    font-family: fantasy;
+    padding: 30px;
+    text-align: center;
+    background: rgb(124, 1, 1);
+    margin-top: -18px;
+    margin-left: -18px;
+    margin-right: -18px;
+    background-image: url(https://cdn2.vectorstock.com/i/1000x1000/91/91/abstract-blue-light-arrow-speed-power-technology-vector-21229191.jpg);
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+    margin-left: -18px;
+    margin-right: -18px;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: #0010a1;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  .topnav a:hover {
+    background-color: rgb(0, 2, 148);
+    color: black;
+  }
+
+
+.header h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 31px;
+}
+
+.tietoja {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 40px;
+    text-align: center;
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+}
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+
