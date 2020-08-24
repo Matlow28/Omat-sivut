@@ -4,6 +4,7 @@ body {
     padding: 10px;
     background: hsl(0, 0%, 0%);
     background-image: url(https://wallpaperaccess.com/full/165496.jpg);
+    color: white;
   }
 .header {
     font-family: fantasy;
@@ -26,15 +27,15 @@ body {
   .topnav a {
     float: left;
     display: block;
-    color: #0010a1;
+    color: #174dfd;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
 
   .topnav a:hover {
-    background-color: rgb(0, 2, 148);
-    color: black;
+    background-color: rgb(0, 0, 255);
+    color: rgb(255, 255, 255);
   }
 
 
@@ -52,10 +53,15 @@ body {
     font-size: 22px;
     color: rgb(255, 255, 255);
 }
-p {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: white;
-    font-size: 25px;
-    text-align: center;
+.tieto {
+  text-align: center;
+  font-size: 25px;
 }
+.p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    align-content: center;
+}
+
 
