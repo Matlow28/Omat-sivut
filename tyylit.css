@@ -3,8 +3,8 @@ body {
     font-family: Arial;
     padding: 10px;
     background: hsl(0, 0%, 0%);
-    background-image: url(https://wallpaperaccess.com/full/165496.jpg);
-    color: white;
+    background-image: url();
+    color: rgb(192, 13, 0);
   }
 .header {
     font-family: fantasy;
@@ -19,7 +19,7 @@ body {
 
 .topnav {
     overflow: hidden;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(65, 65, 65);
     margin-left: -18px;
     margin-right: -18px;
   }
